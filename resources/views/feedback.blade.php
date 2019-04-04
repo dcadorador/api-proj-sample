@@ -1,0 +1,26 @@
+<table>
+<tr>
+	<td>From:</td>
+	<td>{{$name}}</td>
+</tr>
+<tr>
+	<td>Email:</td>
+	<td>{{$email}}</td>
+</tr>
+<tr>
+	<td>Phone:</td>
+	<td>{{$telephone}}</td>
+</tr>
+<tr>
+	<td>Subject:</td>
+	<td>{{$subject}}</td>
+</tr>
+<tr>
+	<td>Device:</td>
+	<td>{{$device}}</td>
+</tr>
+<tr>
+	<td>Body:</td>
+	<td>{{$body}}</td>
+</tr>
+</table>
